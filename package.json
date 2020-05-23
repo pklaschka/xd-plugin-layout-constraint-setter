@@ -16,11 +16,12 @@
     "docs": "jsdoc -r src -d docs"
   },
   "dependencies": {
+    "xd-dialog-helper": "^1.0.5",
     "xd-storage-helper": "^1.2.3"
   },
   "devDependencies": {
     "@adobe/xdpm": "^4.0.0",
-    "@types/adobe-xd": "AdobeXD/typings",
+    "@types/adobe-xd": "AdobeXD/typings#xd-29-updates",
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
     "webpack": "^4.43.0",

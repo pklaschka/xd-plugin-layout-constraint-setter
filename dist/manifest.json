@@ -1,6 +1,6 @@
 {
     "id": "YOUR_ID_HERE",
-    "name": "My plugin",
+    "name": "Constraint Setter",
     "version": "0.0.1",
     "icons": [
         { "width": 24, "height": 24, "path": "icons/icon@1x.png" },
@@ -8,7 +8,7 @@
     ],
     "host": {
         "app": "XD",
-        "minVersion": "25.0"
+        "minVersion": "29.0"
     },
     "uiEntryPoints": [
         {
