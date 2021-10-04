@@ -16,7 +16,7 @@
     "docs": "jsdoc -r src -d docs"
   },
   "dependencies": {
-    "xd-dialog-helper": "^1.0.5",
+    "xd-dialog-helper": "^1.1.0",
     "xd-storage-helper": "^1.2.3"
   },
   "devDependencies": {
